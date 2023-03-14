@@ -1,0 +1,10 @@
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\bin\Debug\hesapMakinesi1.exe.config
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\bin\Debug\hesapMakinesi1.exe
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\bin\Debug\hesapMakinesi1.pdb
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.csprojAssemblyReference.cache
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.Form1.resources
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.Properties.Resources.resources
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.csproj.GenerateResource.cache
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.exe
+C:\Users\DİGİTAL\Source\Repos\hesapMakinesi1\hesapMakinesi1\obj\Debug\hesapMakinesi1.pdb
